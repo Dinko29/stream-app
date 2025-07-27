@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+deep-sort-realtime
+fastapi
+uvicorn
+numpy
+websockets 
